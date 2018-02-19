@@ -35,7 +35,7 @@ react-native run-android or react-native run-ios
 
 6 telas - Todos os jogos &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gerar número - Dupla Sena &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Números - Todos os jogos
 
-![](https://media.giphy.com/media/7T2ypO6vuBrYdVxIkr/giphy.gif) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://media.giphy.com/media/Scmd3UU4Bzt3Lt1tMs/giphy.gif) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://media.giphy.com/media/cYRdmWmdRUu1e9pduA/giphy.gif)
+![](https://media.giphy.com/media/7T2ypO6vuBrYdVxIkr/giphy.gif) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://media.giphy.com/media/cYRdmWmdRUu1e9pduA/giphy.gif) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://media.giphy.com/media/cYRdmWmdRUu1e9pduA/giphy.gif)
 
 ## Compatibilidade
 Versões iguais ou superiores
