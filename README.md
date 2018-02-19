@@ -3,7 +3,7 @@
 Aplicativo bem simples desenvolvido no intuito de treinamento e aprendizado.<br><br> Construído com - [React Native](https://facebook.github.io/react-native/). O aplicativo possui 6 telas, aonde o usuário pode gerar números aleatórios para os jogos da [Loteria](http://www.loterias.caixa.gov.br/wps/portal/loterias), com as seis opções de jogos disponíveis sendo a **Mega Sena**, **Lotofácil**, **Quina**, **Loto Mania**, **Timemania** e **Dupla Sena**.
 
 
-Nas telas de cada jogo o usuário tem a possibilidade de ver as informações do último jogo como, todas as informações são retiradas da API de consumo de dados JSON [Lotodicas Api](https://www.lotodicas.com.br/api)
+Na tela de cada jogo o usuário tem a possibilidade de ver as informações do último jogo como os números do último sorteio, todas as informações são retiradas da API de consumo de dados JSON [Lotodicas Api](https://www.lotodicas.com.br/api)
 
 ## Instalação
 
